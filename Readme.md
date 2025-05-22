@@ -25,7 +25,7 @@ El proyecto está estructurado de forma modular, basada en los principios de Cle
 ## Instalación y Configuración
 
 ```bash
-git clone https://github.com/tu_usuario/market-simulation.git
+git clone https://github.com/jcastrol/prueba_agents.git
 cd market-simulation
 python -m venv venv
 source venv/bin/activate
