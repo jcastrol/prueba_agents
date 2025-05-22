@@ -64,13 +64,13 @@ Ejecuta una simulación. Acepta parámetros personalizados o usa valores por def
 #### Payload ejemplo
 ```json
 {
-  ""total_iterations"": 1000,
-  ""random_agents"": 50,
-  ""trend_agents"": 25,
-  ""antitrend_agents"": 25,
-  ""smart_agents"": 0,
-  ""initial_price"": 200.0,
-  ""initial_stock"": 100000
+  "total_iterations": 1000,
+  "random_agents": 50,
+  "trend_agents": 25,
+  "antitrend_agents": 25,
+  "smart_agents": 0,
+  "initial_price": 200.0,
+  "initial_stock": 100000
 }
 ```
 
